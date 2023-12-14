@@ -1,0 +1,63 @@
+html {
+    background: url(../images/tile-background.jpg);	
+
+}
+
+body { 
+	width:960px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+	background: url(../images/rough_dark_bg.png);	
+    box-shadow: 0 0 12px 4px rgba(0,0,0,.7);
+	border: 2px solid #000000;
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      background-color: #000000;
+      padding: 10px 20px;
+}
+
+
+}
+
+h1 {
+    font-family: 'Lobster', sans-serif;
+	font-size: 36px;
+	
+}
+
+p {
+	font-weight: 300;
+	font-size: 20px;
+  	padding-left: 50px;
+	padding-right: 50px;
+}
+
+footer {
+	height: 50px;
+	background: #000;
+	text-transform: uppercase;
+	font-size: 10px;
+	letter-spacing: 2px;
+	color: #666;
+	padding-top: 10px;
+}
+
+nav {
+    margin: 40px;
+    
+}
+
+a:hover {
+    color: #DB0030;
+}
